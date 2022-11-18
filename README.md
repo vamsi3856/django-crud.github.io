@@ -26,3 +26,7 @@ If we want to update the Task, Click on "Update". If we want to delete the Task,
 After Updating, It will show the details again.
 
 <img src="ScreenShots/taskdisc.png" height="300" width="500">
+
+<div class="text-center text-gray-700 p-8" style="background: rgb(0, 0, 0, 0.1);">
+        © 2022 Copyright: <a class="text-gray-800 fn1" href="#">Vamsi</a>
+    </div>
